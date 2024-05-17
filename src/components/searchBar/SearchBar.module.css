@@ -1,0 +1,10 @@
+.inputForm {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  margin-bottom: 10px;
+  background-color: #3846ad;
+}
+.buttonBar {
+  background-color: #e4ecfa;
+}

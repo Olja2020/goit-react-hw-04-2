@@ -1,0 +1,8 @@
+.btn {
+  background-color: #3846ad;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px auto;
+}
